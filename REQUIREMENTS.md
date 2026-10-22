@@ -1,0 +1,4 @@
+- Must correctly add 2 numbers, eg 2+2 = 4
+- Must correctly subtract 2 numbers, eg 4-7 = -3
+- Must correctly multiply 2 numbers, eg 2*5 = 10
+- Must correctly divide 2 numbers, eg 6/2 = 3
