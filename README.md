@@ -6,3 +6,5 @@ Add, subtract, multiply and divide two numbers; display the result.
 Run: ~/h-drive/calculator/run.sh
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
+## How to test it
+Run: ~/h-drive/calculator/check.sh
