@@ -1,4 +1,4 @@
-name: Calculator CI
+name: "Calculator CI"
 
 on:
   main:
